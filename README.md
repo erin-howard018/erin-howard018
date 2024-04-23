@@ -12,12 +12,15 @@
 
 ## Table of contents
 - [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-- [Study Projects](#study-projects)
+- [Education](#education)
+- [Work Experience](#work-experience)
 - [Certificates/Qualifications](#certificates)
+- [My Portfolio](#portfolio-projects)
 
-## Portfolio Projects
+## Education
 
-## Study Projects
+## Work Experience
 
 ## Certificates/Qualifications
+
+## My Portfolio
