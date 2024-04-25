@@ -21,7 +21,7 @@
   +  Univeristy of Auckland 2019-2023
 
 ## Certificates/Qualifications
-- [**Google Data Analytics Professional Certificate**](resources/Coursera ET9Q3TNFCJGE.pdf) Courseera 2024
+- [**Google Data Analytics Professional Certificate**](resources/CourseraET9Q3TNFCJGE.pdf) Courseera 2024
 
 ## My Portfolio
 
