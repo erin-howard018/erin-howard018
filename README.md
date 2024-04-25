@@ -13,14 +13,15 @@
 ## Table of contents
 - [About](#about)
 - [Education](#education)
-- [Work Experience](#work-experience)
 - [Certificates/Qualifications](#certificates)
 - [My Portfolio](#portfolio-projects)
 
 ## Education
-
-## Work Experience
+- **Bachelor of Commerce and Arts** majoring in Statistics, Business Analytics and Accounting
+  +  Univeristy of Auckland 2019-2023
 
 ## Certificates/Qualifications
 
 ## My Portfolio
+
+Take a look at the data analytics projects I have completed [here](https://github.com/erin-howard018/data_analysis_portfolio)
