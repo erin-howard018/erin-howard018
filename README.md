@@ -21,6 +21,7 @@
   +  Univeristy of Auckland 2019-2023
 
 ## Certificates/Qualifications
+- **Google Data Analytics Professional Certificate** Courseera 2024
 
 ## My Portfolio
 
