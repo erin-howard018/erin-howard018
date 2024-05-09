@@ -23,6 +23,12 @@
 ## Certificates/Qualifications
 - [**Google Data Analytics Professional Certificate**](resources/CourseraET9Q3TNFCJGE.pdf) Courseera 2024
 
+## Courses
+- Completed
+  + [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics)
+- Currently undertaking
+  + [**Learn SQL Basics for Data Science Specialization - UC Davis**](https://www.coursera.org/specializations/learn-sql-basics-data-science)
+
 ## My Portfolio
 
 Take a look at the data analytics projects I have completed [here](https://github.com/erin-howard018/data_analysis_portfolio)
