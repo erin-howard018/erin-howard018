@@ -14,6 +14,7 @@
 - [About](#about)
 - [Education](#education)
 - [Certificates/Qualifications](#certificates)
+- [Courses](#courses)
 - [My Portfolio](#portfolio-projects)
 
 ## Education
