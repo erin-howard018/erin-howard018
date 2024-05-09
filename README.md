@@ -13,7 +13,7 @@
 ## Table of contents
 - [About](#about)
 - [Education](#education)
-- [Certificates/Qualifications](#certificates)
+- [Certificates](#certificates)
 - [Courses](#courses)
 - [My Portfolio](#portfolio-projects)
 
@@ -21,7 +21,7 @@
 - **Bachelor of Commerce and Arts** majoring in Statistics, Business Analytics and Accounting
   +  Univeristy of Auckland 2019-2023
 
-## Certificates/Qualifications
+## Certificates
 - [**Google Data Analytics Professional Certificate**](resources/CourseraET9Q3TNFCJGE.pdf) Courseera 2024
 
 ## Courses
