@@ -29,6 +29,7 @@
   + [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics)
 - Currently undertaking
   + [**Learn SQL Basics for Data Science Specialization - UC Davis**](https://www.coursera.org/specializations/learn-sql-basics-data-science)
+  + [**Excel Skills for Business Specialization - Macquarie University**](https://www.coursera.org/specializations/excel)
 
 ## My Portfolio
 
