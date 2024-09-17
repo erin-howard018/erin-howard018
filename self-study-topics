@@ -1,0 +1,76 @@
+# Self Study Topics
+
+•  Foundational Skills
+•	Definitions data analysis, data science, data engineering
+•	Statistics: statistical methods for data 
+•	Data ethics and governance concepts; privacy, bias etc. 
+•	Data lifecycle; management and Metadata
+
+•	Data Analysis: 
+•  Data Cleaning and Preparation
+•	Types of missing data, handling missing data (imputation or removal)
+•	Data transformation (types, encoding categorical) and normalization
+•	Data integration (merging and joining)
+•  Exploratory Data Analysis (EDA)
+•	Descriptive statistics (centre, variability)
+•	Data visualization (visual summaries using histograms, box plots, scatter plots, and identify patterns, trends, and outliers )
+•	Identifying relationships (correlations, cross-tabulations, pivot tables) 
+•  Statistical Analysis
+•	Hypothesis testing (p-values, confidence intervals)
+•	Correlation and regression analysis (correlation coefficients, building and interpreting regression models)
+•	ANOVA
+•  Data Visualization
+•	Creating charts and graphs and best type to display data
+•	Interactive dashboards
+•	Using tools like Excel, Tableau, Power BI
+•  Reporting and Communication
+•	Presenting insights to stakeholders (summarising, communicating complex ideas)
+•	Actionable recommendations
+•	Documenting data sources and analysis methods  
+
+•  Programming and Query Languages
+•	Excel: Learn data entry, formulas, and basic analysis, visualisation.
+•	Python: Basics, focusing on data libraries like Pandas and NumPy.
+•	SQL: Basic queries and database manipulation.
+•	R: Learn basic statistical analysis and visualization.
+•	SAS: Basic data manipulation and statistical analysis
+•  Data Visualization
+•	Power BI: Create interactive reports and dashboards.
+•	Tableau: Advanced data visualization techniques.
+
+•  Data Science and Machine Learning
+•	Data collection; data sources (databases, APIs, webscraping), formats and conversions, data 
+•	Data wrangling; cleaning, preprocessing, feature engineering
+•	Machine Learning Algorithms: 
+o	Supervised; training models with labelled data, linear regression, decision tees, support vector machines 
+o	Unsupervised; analysing data without labels, clustering (k-means, hierarchical), dimension reduction (PCA)
+o	Model evaluation and tuning; training, validation and test sets, metrics like accuracy, precision, recall, and F1-score, Hyperparameter tuning and cross-validation
+o	Feature selection
+o	Ensemble methods; bootstrapping, bagging, boosting 
+•	Predictive Models: 
+o	Regression models; linear and logistic regression, predict continuous outcomes
+o	Classification models; Using algorithms like random forests and neural networks for categorical predictions, imbalanced classes with techniques like SMOTE
+o	Time series forecasting; methods like ARIMA, exponential smoothing, and LSTM networks
+•	Deep Learning: 
+o	Basics of neural networks and frameworks like TensorFlow or PyTorch, 
+o	Applications in image and speech recognition. 
+o	Natural language processing
+o	Reinforcement learning (Learning through interaction with an environment) 
+
+•  Data Engineering
+•	Data Architecture and Infrastructure
+o	Data pipeline design;  workflows, batch and real time processing 
+o	Data modelling; Designing data models for relational and NoSQL databases, Understanding schemas, tables, and relationships
+o	Data lakes and warehouses 
+•	Data storage and management; 
+o	Relational databases; MySQL and PostgreSQL
+o	NoSQL databases; MongoDB and Cassandra
+o	Data warehousing; Implementing solutions with tools like Amazon Redshift and Snowflake. Star and snowflake schemas 
+•	Big Data Frameworks: Introduction to Cassandra, Hadoop, Spark.
+•	Cloud Platforms: Basics of AWS, Azure, and Google Cloud for data storage and processing.
+•	ETL processes
+•	Monitoring and maintenance; quality assurance, system monitoring, security and compliance 
+•  Advanced Topics
+•	AI: Basics of artificial intelligence and its applications.
+•	Robotics: If relevant, understand the intersection of data and robotics.
+
