@@ -23,7 +23,7 @@
 
 ## Certificates
 - [**Google Data Analytics Professional Certificate**](resources/CourseraET9Q3TNFCJGE.pdf) Courseera 2024
-- [**Excel Skills for Business - Macquarie University**](resources/Coursera NFF0KNNVKDBL.pdf) Courseera 2024
+- [**Excel Skills for Business - Macquarie University**](resources/CourseraNFF0KNNVKDBL.pdf) Courseera 2024
 
 ## Courses
 - Completed
