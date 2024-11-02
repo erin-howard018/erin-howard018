@@ -19,11 +19,11 @@
 
 ## Education
 - **Bachelor of Commerce and Arts** majoring in Statistics, Business Analytics and Accounting
-  +  Univeristy of Auckland 2019-2023
+  +  University of Auckland 2019-2023
 
 ## Certificates
 - [**Google Data Analytics Professional Certificate**](resources/CourseraET9Q3TNFCJGE.pdf) Courseera 2024
-- [**Excel Skills for Business - Macquarie University**](resources/CourseraNFF0KNNVKDBL.pdf) Courseera 2024
+- [**Excel Skills for Business - Macquarie University**](resources/Coursera NFF0KNNVKDBL.pdf) Courseera 2024
 
 ## Courses
 - Completed
