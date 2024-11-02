@@ -23,13 +23,14 @@
 
 ## Certificates
 - [**Google Data Analytics Professional Certificate**](resources/CourseraET9Q3TNFCJGE.pdf) Courseera 2024
+- [**Excel Skills for Business - Macquarie University**](resources/CourseraNFF0KNNVKDBL.pdf) Courseera 2024
 
 ## Courses
 - Completed
   + [**Google Data Analytics Professional Certificate**](https://www.coursera.org/professional-certificates/google-data-analytics)
+  + [**Excel Skills for Business Specialization - Macquarie University**](https://www.coursera.org/specializations/excel)
 - Currently undertaking
   + [**Learn SQL Basics for Data Science Specialization - UC Davis**](https://www.coursera.org/specializations/learn-sql-basics-data-science)
-  + [**Excel Skills for Business Specialization - Macquarie University**](https://www.coursera.org/specializations/excel)
 
 ## My Portfolio
 
